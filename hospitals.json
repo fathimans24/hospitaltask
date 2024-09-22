@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1011,
+    "name": "nims",
+    "patientCount": 20,
+    "location": "kochi"
+  },
+  {
+    "id": 1012,
+    "name": "prs",
+    "patientCount": 15,
+    "location": "Tvm"
+  },
+  {
+    "id": 1013,
+    "name": "kims",
+    "patientCount": 300,
+    "location": "tvm"
+  },
+  {
+    "name": "New Hospital",
+    "patientCount": 300,
+    "location": "Uptown",
+    "id": 4
+  }
+]
